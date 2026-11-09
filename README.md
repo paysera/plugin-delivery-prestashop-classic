@@ -1,2 +1,11 @@
 # plugin-delivery-prestashop-classic
-Release ZIPs for the Paysera plugin-delivery-prestashop-classic CMS plugin (AR-12452, EC-12293)
+
+Release ZIPs for the Paysera classic delivery plugin for PrestaShop. This repository contains no source code.
+
+## Download
+
+Download the plugin from [Releases](../../releases/latest).
+
+## Documentation
+
+See the [Paysera developer documentation](https://developers.paysera.com).
